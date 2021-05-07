@@ -8,7 +8,7 @@ Since you are already here, let me tell you a little bit about myself.
 - I am a hobbiest *illustrator* and a vivid *doodler*.
 - I <3 Javascript and have been working in ReactJS framework for *more than* **half a decade.**
 
-> I love connecting with new people and learn new everyday.
+> I love connecting with new people and learn *smthng* new everyday.
 
 Feel free to reach out or drop me a message.
 
