@@ -9,13 +9,12 @@ Since you are already here, let me tell you a little bit about myself.
 - 😻 Javascript and have been working in ReactJS framework for ~5 years now.
 - 😻 connecting with new people and learn *smthng* new everyday.
 
-Feel free to reach out or drop me a ✉️
-
-Here are some ideas to get you started:
+## My Github Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijayjangid)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on a [Hangman Game](https://github.com/vijayjangid/react-hangman/blob/main/README.md "@vijayjangid/react-hangman") made in ReactJS.
 - 🌱 I’m currently learning Neuomorphic designs.
 - 👯 I’m looking to collaborate on React/Javascript projects
 - 💬 Ask me about Neuomorphism, Javascript, React
-- 📫 How to reach me: vijskt@gmail.com
+- 📫 How to reach me: [vijskt@gmail.com](mailto:vijskt@gmail.com)
 - ⚡ Fun fact: my favorite emoji is 😼 (:smirk_cat)
