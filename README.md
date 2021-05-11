@@ -6,8 +6,8 @@ Since you are already here, let me tell you a little bit about myself.
 
 - A software professional with a keen interest in UI/WEB and Visuals. 
 - Hobbiest *illustrator* and a vivid *doodler*.
-- 🖤 Javascript and have been working in ReactJS framework for ~5 years now.
-- 🖤 connecting with new people and learn *smthng* new everyday.
+- 😻 Javascript and have been working in ReactJS framework for ~5 years now.
+- 😻 connecting with new people and learn *smthng* new everyday.
 
 Feel free to reach out or drop me a ✉️
 
