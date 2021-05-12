@@ -16,7 +16,8 @@ Since you are already here, let me tell you a little bit about myself.
 ### Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vijayjangid)](https://git.io/streak-stats)
 
-- 🔭 I’m currently working on a [Hangman Game](https://github.com/vijayjangid/react-hangman/blob/main/README.md "@vijayjangid/react-hangman") made in ReactJS.
+- 🔭 I’m currently working on a [Bulls n Cows Game](https://github.com/vijayjangid/bulls-n-cows "@vijayjangid/bulls-n-cows") made in ReactJS.
+- 🤸 I recently finished [Hangman Game](https://github.com/vijayjangid/react-hangman "@vijayjangid/react-hangman") made in ReactJS.
 - 🌱 I’m currently learning Neuomorphic designs.
 - 👯 I’m looking to collaborate on React/Javascript projects
 - 💬 Ask me about Neuomorphism, Javascript, React
