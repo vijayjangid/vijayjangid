@@ -4,7 +4,7 @@ Since you are already here, let me tell you a little bit about myself.
 
 - A software professional with a keen interest in Web/UI development (frontend engineering).
 - A hobbiest *illustrator* and a vivid *doodler* `instagram @creativevijay`
-- Love 😻 Javascript and have been working in ReactJS framework for ~8 years now.
+- Love 😻 Javascript and have been working in ReactJS framework since 2016.
 - Enjoy connecting with new people and learn *smthng* new everyday.
 
 ### Skills
